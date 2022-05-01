@@ -22,7 +22,7 @@
             </div>
         </div>
 
-
+            <h1>Hello testing jaan</h1>
         <?php include 'home_location.php';?>
 
     </div>
