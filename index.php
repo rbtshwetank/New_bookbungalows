@@ -21,11 +21,35 @@
                 </p>
             </div>
         </div>
-
-            <h1>Hello testing jaan</h1>
+    </div>
+           
         <?php include 'home_location.php';?>
 
-    </div>
+                <section class="section section-default border-0">
+					<div class="container">
+                        <div class="row align-items-center justify-content-between">
+							<div class="col-lg-4">
+								<h2 class="text-7 font-weight-semibold line-height-2 mb-2">The new generation of website templates is here.</h2>
+								<p>A complete suite of tools designed to make life easier with a top quality website templates.</p>
+                                <a href="#" class="btn btn-outline btn-primary btn-sm mb-2">Read More</a>
+                            </div>
+							<div class="col-sm-4 col-lg-auto icon-box text-center mb-4">
+								<i class="icon-bg icon-1"></i>
+								<h4 class="font-weight-bold custom-font-size-2 line-height-3 mb-0">Super High<br>Performance</h4>
+							</div>
+							<div class="col-sm-4 col-lg-auto icon-box text-center mb-4">
+								<i class="icon-bg icon-2"></i>
+								<h4 class="font-weight-bold custom-font-size-2 line-height-3 mb-0">Created with Top<br>Plugins and Extensions</h4>
+							</div>
+							<div class="col-sm-4 col-lg-auto icon-box text-center mb-4">
+								<i class="icon-bg icon-3"></i>
+								<h4 class="font-weight-bold custom-font-size-2 line-height-3 mb-0">Extremely Easy<br>to Customize</h4>
+							</div>
+						</div>
+                    </div>
+                </section>
+
+        <?php include 'home_bungalow.php';?>
 
 </div>
 
