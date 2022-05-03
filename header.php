@@ -6,11 +6,11 @@
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">	
 
-		<title>Porto - Responsive HTML5 Template</title>	
+		<title>Book Bungalows - Rent bungalows and vills best price</title>	
 
 		<meta name="keywords" content="HTML5 Template" />
 		<meta name="description" content="Porto - Responsive HTML5 Template">
-		<meta name="author" content="okler.net">
+		<meta name="author" content="rbtech.in">
 
 		<!-- Favicon -->
 		<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
@@ -71,7 +71,7 @@
 											<nav class="collapse">
 												<ul class="nav nav-pills" id="mainNav">
                                                     <li>
-                                                        <a class="dropdown-item" href="blog-post-image-gallery.html">Home</a>
+                                                        <a class="dropdown-item" href="index.php">Home</a>
                                                     </li>
 													<li class="dropdown">
 														<a class="dropdown-item dropdown-toggle" href="index.html">
@@ -79,22 +79,25 @@
 														<i class="fas fa-chevron-down"></i></a>
 														<ul class="dropdown-menu">
 															<li>
-																<a class="dropdown-item" href="index.html">
-																	Landing Page
+																<a class="dropdown-item" href="bungalow_list.php">
+																	Lonavala
 																</a>
 															</li>
 															<li>
-																<a class="dropdown-item" href="index.html#demos">
-																	Demos <span class="tip tip-dark">hot</span>
+																<a class="dropdown-item" href="bungalow_list.php">
+																	Mahablashwar<span class="tip tip-dark">hot</span>
 																</a>
 															</li>
 														</ul>
 													</li>
                                                     <li>
-                                                        <a class="dropdown-item" href="blog-post-image-gallery.html">About Us</a>
+                                                        <a class="dropdown-item" href="about.php">About Us</a>
                                                     </li>
+													<!-- <li>
+                                                        <a class="dropdown-item" href="blog-post-image-gallery.html">Become a Host</a>
+                                                    </li> -->
                                                     <li>
-                                                        <a class="dropdown-item" href="blog-post-image-gallery.html">Contact Us</a>
+                                                        <a class="dropdown-item" href="contact.php">Contact Us</a>
                                                     </li>
 												
 												</ul>

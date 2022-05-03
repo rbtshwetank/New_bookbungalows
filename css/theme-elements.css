@@ -17581,7 +17581,7 @@ html.gecko .sort-destination.sort-destination-margin > [class*="col-"] {
 .thumb-info.thumb-info-no-borders.thumb-info-no-borders-rounded img,
 .thumb-info.thumb-info-no-borders.thumb-info-no-borders-rounded .thumb-info-wrapper,
 .thumb-info.thumb-info-no-borders.thumb-info-no-borders-rounded .thumb-info-wrapper:after {
-	border-radius: 4px;
+	border-radius: 12px;
 }
 
 .thumb-info.thumb-info-preview .thumb-info-wrapper:after {

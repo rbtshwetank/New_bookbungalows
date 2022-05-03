@@ -7684,6 +7684,9 @@ a.text-light:focus, a.text-light:hover {
 .bg-color-grey-scale-1 {
 	background-color: #EDEDED !important;
 }
+.bg-color-white-scale-1 {
+	background-color: #ffffff !important;
+}
 
 .bg-color-grey-scale-2 {
 	background-color: #e8e8e8 !important;
@@ -9870,7 +9873,7 @@ a.text-light:focus, a.text-light:hover {
 	background: #212529;
 	border-top: 4px solid #212529;
 	font-size: 0.9em;
-	margin-top: 50px;
+	margin-top: 0px;
 	padding: 0;
 	position: relative;
 	clear: both;

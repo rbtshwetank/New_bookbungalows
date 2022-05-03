@@ -34,7 +34,7 @@
                                 <a href="#" class="btn btn-outline btn-primary btn-sm mb-2">Read More</a>
                             </div>
 							<div class="col-sm-4 col-lg-auto icon-box text-center mb-4">
-								<i class="icon-bg icon-1"></i>
+								<i class="icon-location-pin icon-1"></i>
 								<h4 class="font-weight-bold custom-font-size-2 line-height-3 mb-0">Super High<br>Performance</h4>
 							</div>
 							<div class="col-sm-4 col-lg-auto icon-box text-center mb-4">
@@ -48,9 +48,12 @@
 						</div>
                     </div>
                 </section>
-
+        <div class="container">
+        <h4 class="mb-4"> Our Bungalows</h4>
+        </div>
         <?php include 'home_bungalow.php';?>
-
+        <?php include 'testimonials.php';?>
+     
 </div>
 
 <?php include 'footer.php';?>
